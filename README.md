@@ -10,9 +10,14 @@ I am create this repo to compete and improve myself as far as i go
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/VedantDange258/LeetcodeCompete/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/VedantDange258/LeetcodeCompete/tree/main/1929-concatenation-of-array/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/VedantDange258/LeetcodeCompete/tree/main/1929-concatenation-of-array/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/VedantDange258/LeetcodeCompete/tree/main/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
